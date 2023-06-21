@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.all{
+    display: flex;
+    justify-content: center;
+    margin: 31px 266px;
+    padding: 10px 19px;
+}
+
+.login{
+    background-color: #3aafa9;;
+    padding: 6px 6px;
+}
+
+/* .all .login image{
+
+} */
+.form{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border-radius: 20%;
+}
+
+.email{
+    margin: 28px 52px;
+}
+
+.password{
+    margin: 28px 52px;
+}
+
+.forget{
+    margin: 54px;
+}
+
+.f_3{
+    margin: 44px 42px;
+    padding: 0px 10px;
+    font-size: small;
+}
+
+.login_2{
+    margin: 0px 103px;
+    background-color: plum;
+    width: 139px;
+}
+
+.or_1{
+    margin:  0px 159px;
+}
+
+.button{
+    margin:  0px 73px;
+    background-color: plum;
+    width: 195px;
+}
+
+.new_1{
+    margin: 0px 45px;
+}
+
+.span{
+    font-size: larger;
+    color: white;
+    margin: 1px;
+}
+
+.span_1{
+    margin: 1px;
+    color: white;
+    
+}
